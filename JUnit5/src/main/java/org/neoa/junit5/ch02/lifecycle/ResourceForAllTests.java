@@ -1,5 +1,5 @@
 
-package org.neoa.junit5.ch02.lfcm;
+package org.neoa.junit5.ch02.lifecycle;
 
 public class ResourceForAllTests {
 

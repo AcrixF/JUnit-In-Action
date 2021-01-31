@@ -1,4 +1,4 @@
-package org.neoa.junit5.ch02.dpn;
+package org.neoa.junit5.ch02.displayname;
 
 public class SUT {
 

@@ -1,4 +1,4 @@
-package org.neoa.junit5.ch02.lfcm;
+package org.neoa.junit5.ch02.lifecycle;
 
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.AfterEach;

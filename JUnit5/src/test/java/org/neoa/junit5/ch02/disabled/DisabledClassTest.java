@@ -2,7 +2,7 @@ package org.neoa.junit5.ch02.dsb;
 
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
-import org.neoa.junit5.ch02.lfcm.SUT;
+import org.neoa.junit5.ch02.lifecycle.SUT;
 
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
