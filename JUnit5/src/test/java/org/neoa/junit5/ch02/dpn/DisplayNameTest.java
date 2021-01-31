@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 @DisplayName("Test class showing the @DisplayName annotation")
-public class DisplayNameTest {
+class DisplayNameTest {
 
     private SUT systemUnderTest = new SUT();
 
