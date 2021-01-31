@@ -1,7 +1,6 @@
-package org.neoa.junit.ch01;
+package org.neoa.junit5.ch01;
 
 import org.junit.jupiter.api.Test;
-import org.neoa.junit5.ch01.Calculator;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
