@@ -7,7 +7,7 @@ import org.neoa.junit5.ch02.lfcm.SUT;
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-public class DisableMethodTest {
+class DisableMethodTest {
 
     private SUT systemUnderTest = new SUT("Our System under test");
 
