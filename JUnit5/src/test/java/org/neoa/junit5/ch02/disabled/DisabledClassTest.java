@@ -1,4 +1,4 @@
-package org.neoa.junit5.ch02.dsb;
+package org.neoa.junit5.ch02.disabled;
 
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
