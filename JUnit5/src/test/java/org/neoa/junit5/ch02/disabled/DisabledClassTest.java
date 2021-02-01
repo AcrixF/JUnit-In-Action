@@ -8,9 +8,9 @@ import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 @Disabled("Feature is still under construction.")
-public class DisabledClassTest {
+class DisabledClassTest {
 
-    private SUT systemUnderTest = new SUT("Our system under test");
+    private final SUT systemUnderTest = new SUT("Our system under test");
 
     @Test
     void testRegularWork() {

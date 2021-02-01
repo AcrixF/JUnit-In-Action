@@ -9,7 +9,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 
 class DisableMethodTest {
 
-    private SUT systemUnderTest = new SUT("Our System under test");
+    private final SUT systemUnderTest = new SUT("Our System under test");
 
     @Test
     @Disabled
