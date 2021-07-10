@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class SUT {
+
     private String systemName;
     private boolean isVerified;
     private List<Job> jobs = new ArrayList<>();
